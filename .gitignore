@@ -12,4 +12,7 @@
 /logs
 *.log
 /**/.idea
+.vscode/*
+.gitpod.yml
+*/target/*
 
